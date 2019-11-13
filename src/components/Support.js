@@ -15,10 +15,10 @@ class Support extends React.Component {
             }}
             to={'/'}
           >
-            <i>Hope in Source</i>
+            <i>Daily Green</i>
           </Link>{' '}<br/>
           is made possible by the support of the community!<br/>Consider becoming a{' '}
-        <a href="https://github.com/users/hzoo/sponsorship">sponsor</a> today!
+        <a href="https://patreon.com">patron</a> today!
       </p>
     )
   }
