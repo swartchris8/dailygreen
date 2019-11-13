@@ -1,4 +1,4 @@
-# [hopeinsource.com](https://hopeinsource.com)
+# Daily Green Podcast forked from [hopeinsource.com](https://github.com/hzoo/hopeinsource.com)
 
 ## Run
 
