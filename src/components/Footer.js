@@ -16,10 +16,10 @@ class Footer extends React.Component {
       >
         <Subscribe />
         <div>
-          Hosts: Nadia Eghbal & Henry Zhu
+          Hosts: Christiaan Swart & Shay Adetunji
         </div>
         <div>
-          Cover Art: Jessica Han | Music: Ken Wheeler
+          Cover Art: XYZ from usplash | Music: TBD
         </div>
         <Link
           style={{
