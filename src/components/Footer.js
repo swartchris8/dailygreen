@@ -19,7 +19,7 @@ class Footer extends React.Component {
           Hosts: Christiaan Swart & Shay Adetunji
         </div>
         <div>
-          Cover Art: XYZ from usplash | Music: TBD
+          Cover Art: Teemu Paananen from usplash | Music: TBD
         </div>
         <Link
           style={{
