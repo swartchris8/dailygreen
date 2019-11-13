@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
-import cover from '../assets/icon.jpg'
+import cover from '../assets/green_icon.jpg'
 
 const query = graphql`
   query GetSiteMetadata {
