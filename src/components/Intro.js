@@ -3,7 +3,7 @@ import React from 'react'
 // Import typefaces
 import 'typeface-montserrat'
 import 'typeface-merriweather'
-import cover from '../assets/icon.jpg'
+import cover from '../assets/green_icon.jpg'
 import Subscribe from './Subscribe'
 
 class Intro extends React.Component {
@@ -18,15 +18,12 @@ class Intro extends React.Component {
         maxWidth: '472px',
         margin: '0 auto',
       }}>
-        <img src={cover} alt="Hope in Source Cover Art"/>
+        <img src={cover} alt="Daily Green Cover Art"/>
         
         <p>
           Join{' '}
-          <a href="https://twitter.com/nayafia">Nadia Eghbal</a> and{' '}
-          <a href="https://twitter.com/left_pad">Henry Zhu</a> for an
-          off-the-cuff conversation between friends. Read the backstory from{' '}
-          <a href="https://henryzoo.com/living-out-in-faith">Henry</a> and{' '}
-          <a href="https://nadiaeghbal.com/public-faith">Nadia</a>.
+          <a href="https://twitter.com/swartchris8">Christiaan Swart</a> and{' '}
+          <a href="https://twitter.com/swartchris8">Shay Adetunji</a> for a biweekly showcase of Green companies that could help you.
         </p>
         
         <Subscribe />
