@@ -23,7 +23,7 @@ const query = graphql`
   }
 `
 
-function SEO({ meta, image=cover, title, description, slug, appId=1437677655, embedUrl }) {
+function SEO({ meta, image=cover, title, description, slug, appId=152383042, embedUrl }) {
   return (
     <StaticQuery
       query={query}
