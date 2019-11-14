@@ -3,7 +3,7 @@ import React from 'react'
 // Import typefaces
 import 'typeface-montserrat'
 import 'typeface-merriweather'
-import cover from '../assets/green_icon.jpg'
+import cover from '../assets/green_icon.jpeg'
 import Subscribe from './Subscribe'
 
 class Intro extends React.Component {

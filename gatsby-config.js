@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: 'Hope in Source — A podcast about faith and open source — with Nadia Eghbal & Henry Zhu',
-    author: 'Nadia Eghbal & Henry Zhu',
-    description: 'What are the parallels between faith and open source software? Join Nadia and Henry for an off-the-cuff conversation between friends.',
-    gitOrg: 'hzoo',
-    gitRepo: 'hopeinsource.com',
-    siteUrl: 'https://hopeinsource.com',
+    title: 'Daily Green Podcast - Bringing you green options',
+    author: 'Shay Adetunji & Chris Swart',
+    description: 'How can going green help you? The Daily Green Podcast looks at green companies that could help you.',
+    gitOrg: 'swartchris8',
+    gitRepo: 'http://romantic-rosalind-50c19e.netlify.com/',
+    siteUrl: 'https://romantic-rosalind-50c19e.netlify.com/',
     social: {
-      twitter: '@left_pad',
+      twitter: '@swartchris8',
     },
     feed: {
       rss: 'https://feeds.simplecast.com/9H3Jd25O',
@@ -58,20 +58,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-127078332-1`,
+        trackingId: `UA-152383042-1`,
       },
     },
     // `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hope in Source`,
-        short_name: `Hope in Source`,
+        name: `Daily Green`,
+        short_name: `Daily Green`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/assets/icon.jpg`,
+        icon: `src/assets/green_icon.jpeg`,
       },
     },
     `gatsby-plugin-react-helmet`,
